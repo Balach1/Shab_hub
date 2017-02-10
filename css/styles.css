@@ -21,8 +21,12 @@ border:0;
 float: left;
 margin: 0px 0px 0px 83px
 }
-
-
+#wwe{ 
+width: 868px;
+height: 500px;
+border:0;
+  margin: 0px 0px 0px 150px;
+  } 
 .clearfix {
 	clear: both;
 }
